@@ -1,0 +1,10 @@
+D:\visualstudioprojects\myhit_tests\myhit_tests\bin\Debug\myhit_tests.dll
+D:\visualstudioprojects\myhit_tests\myhit_tests\bin\Debug\myhit_tests.pdb
+D:\visualstudioprojects\myhit_tests\myhit_tests\bin\Debug\nunit.framework.dll
+D:\visualstudioprojects\myhit_tests\myhit_tests\bin\Debug\WebDriver.dll
+D:\visualstudioprojects\myhit_tests\myhit_tests\bin\Debug\WebDriver.Support.dll
+D:\visualstudioprojects\myhit_tests\myhit_tests\bin\Debug\nunit.framework.xml
+D:\visualstudioprojects\myhit_tests\myhit_tests\bin\Debug\WebDriver.xml
+D:\visualstudioprojects\myhit_tests\myhit_tests\bin\Debug\WebDriver.Support.xml
+D:\visualstudioprojects\myhit_tests\myhit_tests\obj\Debug\myhit_tests.dll
+D:\visualstudioprojects\myhit_tests\myhit_tests\obj\Debug\myhit_tests.pdb
